@@ -1,0 +1,5 @@
+base_url: "https://play.dhis2.org/demo"
+username: "admin"
+password: "district"
+program_id: "abc123"
+org_unit: "XYZ456"

@@ -1,13 +1,21 @@
-# campaign-id-connectors
+# Campaign ID Connectors – Open Source
 
-**Connecteurs open source**
+Connectors for eHealth Campaign ID to interact with external systems.
 
-```
-ehealth-campaign-id-connectors/
-├── dhis2-tracker/
-├── dhis2-events/
-├── odk/
-├── kobo/
-├── mock/
-└── README.md
-```
+**Organization:** oomus-dpi  
+**Maintained by:** Oomus
+
+---
+
+## Supported connectors
+
+- DHIS2 Tracker
+- OpenSRP
+- Easily extendable
+
+---
+
+## Installation
+
+```bash
+pip install -r requirements.txt
